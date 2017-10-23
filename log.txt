@@ -1,0 +1,19 @@
+2017-10-17 11:17:07 INFO  ReflectionTest:94 - Method runwas invoked
+2017-10-17 11:18:49 WARN  ReflectionTest:67 - Private field was changed
+2017-10-17 11:18:49 WARN  ReflectionTest:67 - Private field was changed
+2017-10-17 11:18:49 INFO  ReflectionTest:95 - Method run was invoked
+2017-10-22 05:07:32 ERROR ReflectionTest:114 - Method run was invoked
+2017-10-22 05:07:59 INFO  ReflectionTest:76 - Private field was changed
+2017-10-22 05:07:59 INFO  ReflectionTest:76 - Private field was changed
+2017-10-22 05:07:59 ERROR ReflectionTest:114 - Method run was invoked
+2017-10-22 05:22:03 INFO  ReflectionTest:76 - Private field was changed
+2017-10-22 05:22:03 INFO  ReflectionTest:76 - Private field was changed
+2017-10-22 05:22:03 ERROR ReflectionTest:114 - Method run was invoked
+2017-10-22 05:24:03 INFO  ReflectionTest:76 - Private field was changed
+2017-10-22 05:24:03 INFO  ReflectionTest:76 - Private field was changed
+2017-10-22 05:24:03 ERROR ReflectionTest:115 - Method run was invoked
+2017-10-22 05:30:09 INFO  ReflectionTest:76 - Private field was changed
+2017-10-22 05:30:09 INFO  ReflectionTest:76 - Private field was changed
+2017-10-22 05:37:42 ERROR ReflectionTest:115 - Method run was invoked
+2017-10-22 05:38:30 ERROR ReflectionTest:115 - Method run was invoked
+2017-10-22 05:38:48 ERROR ReflectionTest:115 - Method run was invoked
